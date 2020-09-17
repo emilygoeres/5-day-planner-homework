@@ -16,3 +16,7 @@
             console.log(id,time,"txt-"+time,i)
             localStorage.setItem(time,i)
         })
+        for (var i=9; i<=17; i++) {
+            var planner = localStorage.getItem(i)
+            $("#txt-"+i).val(planner)
+        }
