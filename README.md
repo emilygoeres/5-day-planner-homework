@@ -32,3 +32,5 @@ Bootstrap
 
 What does this app do?
 This app is a word day daily planner that goes from 9am to 5pm. It has a slot for each hour of the day and when it is past the certain hour, that time slot changes color, if its the current hour the time slot is another color and if it is a future time the time slots are a different color. The color for each time slot changes as the day progresses. It also saves your events in local storage so when you refresh the page, your info is still there.
+
+![5 Day Planner](https://github.com/emilygoeres/5-day-planner-homework/blob/master/5%20Day%20Planner.PNG)
